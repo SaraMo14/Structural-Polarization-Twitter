@@ -6,7 +6,7 @@
 
 ## Table of Contents
 1. [Domain, Background](#domain-background)
-2. [Aim(s) of the Research](#aims-of-the-research)
+2. [Aims of the Research](#aims-of-the-research)
 3. [Hypotheses to be Tested](#hypotheses-to-be-tested)
 4. [Theoretical Framework](#theoretical-framework)
 5. [Methods](#methods)
