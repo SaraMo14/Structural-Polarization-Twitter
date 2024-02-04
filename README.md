@@ -10,6 +10,9 @@
 3. [Hypotheses to be Tested](#hypotheses-to-be-tested)
 4. [Theoretical Framework](#theoretical-framework)
 5. [Methods](#methods)
+6. [Report](#report)
+7. [Code](#code)
+
 
 ![rt_israel edges](https://github.com/SaraMo14/Structural-Polarization-Twitter/assets/74814020/45dd1779-56d5-4f3d-9ddc-fb26d6e30990)
 
@@ -33,6 +36,12 @@ Network science, social network analysis, polarization measurement, community de
 
 ## Methods
 Generation of the randomized non-polarized networks; calculation of the following polarization scores: Random Walk Controversy (RWC), Adaptive Random Walk Controversy (ARWC), Betweenness Centrality Controversy (BCC), Boundary Polarization (BP), Dipole polarization (DP), E-I Index (EI), Adaptive E-I Index (AEI) and Modularity (Q) on polarized and non-polarized networks. Comparison between standard and normalized polarization metrics.
+
+## Report
+For more detailed information, please refer to our research report [here](./report/CSN_Final_Project.pdf).
+
+## Code
+Find the code implementation in the 'code' directory. Refer to the code documentation for instructions on execution.
 
 ## References
 1. A. Salloum, T. H. Y. Chen, and M. Kivelä, “Separating polarization from noise: comparison and normalization of structural polarization measures,” Proceedings of the ACM on human-computer interaction, vol. 6, no. CSCW1, pp. 1–33, 2022
