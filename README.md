@@ -25,8 +25,8 @@ In the context of the paper “Separating Polarization from Noise: Comparison an
 
 ## Hypotheses to be Tested
 - Randomized networks appear to be polarized even if they are randomly generated using the eight polarization measures from [1]
-- The choice of the polarization scores has a lower impact than their normalization \cite{salloum2022separating}
-- The process of normalizing polarization scores effectively reduces significant interference caused by the local properties of the network [1]
+- The choice of the polarization scores has a lower impact than their normalization
+- The process of normalizing polarization scores effectively reduces significant interference caused by the local properties of the network
 
 ## Theoretical Framework
 Network science, social network analysis, polarization measurement, community detection, and clustering.
