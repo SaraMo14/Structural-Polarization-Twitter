@@ -11,6 +11,8 @@
 4. [Theoretical Framework](#theoretical-framework)
 5. [Methods](#methods)
 
+![rt_israel edges](https://github.com/SaraMo14/Structural-Polarization-Twitter/assets/74814020/45dd1779-56d5-4f3d-9ddc-fb26d6e30990)
+
 ## Domain
 Structural polarization refers to the phenomenon where a network (such as a social or political network) becomes divided into distinct groups or “poles” based on certain opinions. 
 In the context of the paper “Separating Polarization from Noise: Comparison and Normalization of Structural Polarization Measures” [1], structural polarization refers to the quantification of polarization within a network structure.
