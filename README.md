@@ -41,7 +41,7 @@ Generation of the randomized non-polarized networks; calculation of the several 
 For more detailed information, please refer to our research report [here](./report/CSN_Final_Project.pdf).
 
 ## Code
-Find the code implementation in the 'code' directory. Refer to the code documentation for instructions on execution.
+Find the code implementation in the 'code' directory.
 
 ## References
 1. A. Salloum, T. H. Y. Chen, and M. Kivelä, “Separating polarization from noise: comparison and normalization of structural polarization measures,” Proceedings of the ACM on human-computer interaction, vol. 6, no. CSCW1, pp. 1–33, 2022
