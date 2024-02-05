@@ -35,7 +35,7 @@ In the context of the paper “Separating Polarization from Noise: Comparison an
 Network science, social network analysis, polarization measurement, community detection, and clustering.
 
 ## Methods
-Generation of the randomized non-polarized networks; calculation of the following polarization scores: Random Walk Controversy (RWC), Adaptive Random Walk Controversy (ARWC), Betweenness Centrality Controversy (BCC), Boundary Polarization (BP), Dipole polarization (DP), E-I Index (EI), Adaptive E-I Index (AEI) and Modularity (Q) on polarized and non-polarized networks. Comparison between standard and normalized polarization metrics.
+Generation of the randomized non-polarized networks; calculation of the several polarization scores like Random Walk Controversy (RWC), Adaptive Random Walk Controversy (ARWC), Betweenness Centrality Controversy (BCC), Boundary Polarization (BP), Dipole polarization (DP), E-I Index (EI), Adaptive E-I Index (AEI) and Modularity (Q) on polarized and non-polarized networks. Comparison between standard and normalized polarization metrics.
 
 ## Report
 For more detailed information, please refer to our research report [here](./report/CSN_Final_Project.pdf).
